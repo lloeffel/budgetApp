@@ -1,0 +1,8 @@
+THESE ARE THE COMMANDS:
+   H - Help menu
+   E - Edit mode
+   P - Print Budget
+   B - Go Back
+   Q - Quit
+
+   Press A for an advanced menu:

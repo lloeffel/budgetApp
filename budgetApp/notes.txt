@@ -1,0 +1,4 @@
+map with command names mapping to command functions
+translator that will take h and return it as H
+	map<string,string>
+	    command,meaning
